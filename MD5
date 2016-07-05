@@ -1,0 +1,13 @@
+ff1272110920e8e7e7af7659350fb76f *DESCRIPTION
+fbe4de0b8aa05c9776a905136b112e72 *NAMESPACE
+26d8b9749480cd1d71bd5daa45c1c673 *R/PACBO.R
+b07e742d8763f619d186598cf6bb664e *R/loss_functions.R
+d87909b0eeeda643693f7bae1a4dcde2 *R/prior_distribution.R
+10a11ff73db26698e7d5a9578a34366e *R/transition_prob.R
+e556223c93acb5c570ca64466238bf9c *inst/CITATION
+cd8ab3f85788ad4e201a318c534074f5 *man/PACBO.Rd
+08e94a6669347af4819fe4d3252637c2 *man/cumulative_loss.Rd
+cb65c8789611dfc91ff999e2851ddaef *man/instantaneous_loss.Rd
+8be0d27141f6197736177a6d51a98b11 *man/labels_function.Rd
+95a2580e725573abf3929c634e3270d8 *man/runiform_ball.Rd
+275d12ead27383bf700a2e5f2119ba11 *man/transition_probability.Rd

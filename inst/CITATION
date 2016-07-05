@@ -1,0 +1,19 @@
+year <- sub("-.*", "", meta$Date)
+note <- sprintf("R package version %s", meta$Version)
+
+bibentry(bibtype = "Unpublished",
+         title = "{PACBO}: PAC-Bayesian Online Clustering",
+         author = c(person("Le", "Li"),
+                    person("Benjamin", "Guedj"),
+                    person("Sebastien", "Loustau")),
+
+         year = "2016",
+         note = "submitted",
+         url = "https://arxiv.org/abs/1602.00522")
+
+bibentry(bibtype = "Manual",
+         title = "{PACBO}: PAC-Bayesian Online Clustering",
+         author = c(person("Le", "Li")),
+         year = "2016",
+         note = "R package version 0.1.0",
+         url = "https://CRAN.R-project.org/package=PACBO")
